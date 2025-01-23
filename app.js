@@ -43,7 +43,7 @@ function exibirAmigosAdicionados(nome) {
         }
 
     const nomeItem2 = document.createElement('li');
-    nomeItem2.innerHTML = "O amigo secreto sorteado é: "+pessoaEscolhida;
+    nomeItem2.innerHTML = `<br><br> O amigo screto sorteado é: `+pessoaEscolhida;
 
     const resultado = document.getElementById("resultado");
     resultado.appendChild(nomeItem2);
