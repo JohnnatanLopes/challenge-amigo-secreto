@@ -10,7 +10,7 @@ Este projeto foi desenvolvido como parte do Bootcamp Oracle ONE em parceria com 
 ## Como rodar o projeto
 Clone o repositório:
 
-<pre> git clone https://github.com/seu-usuario/amigo-secreto.git cd amigo-secreto  </pre>
+<pre> git clone https://github.com/seu-usuario/amigo-secreto.git </pre>
 Abra o arquivo index.html no seu navegador.
 
 ## Tecnologias Utilizadas
@@ -19,6 +19,14 @@ Abra o arquivo index.html no seu navegador.
    + JavaScript
      
 ## Exemplo de funcionamento
-   1.  O usuário insere o nome de um amigo e clica no botão "Adicionar".
-   2.  Os nomes inseridos são listados na página.
-   3.  Quando o botão "Sortear Amigo" é clicado, um nome aleatório da lista é exibido como o amigo secreto.
+1.  O usuário insere o nome de um amigo e clica no botão "Adicionar"
+
+ <a href="https://ibb.co/gTBkJDJ"><img src="https://i.ibb.co/WyYmfcf/Captura-de-tela-de-2025-01-23-16-15-30.png" alt="Captura-de-tela-de-2025-01-23-16-15-30" border="0" width=600 height=400></a>
+ 
+2.  Os nomes inseridos são listados na página.
+
+ <a href="https://ibb.co/4tBn0C2"><img src="https://i.ibb.co/qjb32hC/Captura-de-tela-de-2025-01-23-16-16-24.png" alt="Captura-de-tela-de-2025-01-23-16-16-24" border="0" width=600 height=400></a>
+   
+3.  Quando o botão "Sortear Amigo" é clicado, um nome aleatório da lista é exibido como o amigo secreto.
+      
+  <a href="https://ibb.co/1G03Czh"><img src="https://i.ibb.co/pj1gHhG/Captura-de-tela-de-2025-01-24-07-21-45.png" alt="Captura-de-tela-de-2025-01-24-07-21-45" border="0" width=600 height=400></a>
